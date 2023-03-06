@@ -62,7 +62,7 @@ export default function App(){
 
 
     const configuration = new Configuration({
-    apiKey: "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",
+    apiKey: "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",
     });
 
     const openai = new OpenAIApi(configuration);
